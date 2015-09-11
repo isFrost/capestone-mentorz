@@ -1,0 +1,65 @@
+#sex option{
+    color: black;
+}
+#tsex option{
+    color: black;
+}
+.empty{
+    color: gray;
+}
+
+.has-input-error .control-label{
+  color: #a94442;
+}
+.has-input-error .form-control {
+  border-color: #a94442;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+}
+.has-input-error .form-control:focus {
+  border-color: #843534;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 6px #ce8483;
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 6px #ce8483;
+}
+.has-input-error .input-group-addon {
+  color: #a94442;
+  background-color: #f2dede;
+  border-color: #a94442;
+}
+.has-input-error .form-control-feedback {
+  color: #a94442;
+}
+#logo{
+    color: #ababab;
+}
+#login-form button{
+     background-color: #e6e6e6;
+}
+#sreg-btn, #treg-btn{
+    background-color: #e6e6e6;
+}
+#content p, h{
+    color: #2d2d2d;
+}
+#work-pane{
+    margin-top: 55px;
+}
+#sidebar {
+    background-color: #0E0E0E;
+    color: #BABABA;
+}
+#sidebar a{
+    color: #BABABA;
+}
+#sidebar a:focus{
+    color: #0E0E0E;
+}
+#sidebar a:hover{
+    color: #0E0E0E;
+}
+body{
+    margin-top: 65px;
+}
+.btn-violet{
+    background-color: mediumslateblue;
+}
